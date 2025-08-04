@@ -1,6 +1,5 @@
 # 🎯 Mini-Projet QA – Tests manuels Leboncoin
 
-Projet réalisé dans le cadre de ma reconversion vers le métier de **Testeur Logiciel / QA**.
 
 ## 💡 Objectif
 Effectuer une campagne de tests manuels sur le site Leboncoin, documenter les cas de test, les résultats et les anomalies, puis publier les livrables sur GitHub.
